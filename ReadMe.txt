@@ -1,3 +1,5 @@
+The task was developed by using Spring Boot framework.
+
 
 Dependency:
   1.Spring Tool Suite (STS)
@@ -9,13 +11,7 @@ Dependency:
      jdbcURL : jdbc:h2:mem:agilisium
 
   4. Githug url : https://github.com/imganapathy/SampleProject
-
-
-
-
-
-
-
+  5. Clone or download the project.
 
 
 Request and Response for two end points with different credentials
